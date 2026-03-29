@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.selesana.com/sitemap.xml
+Sitemap: https://selesana.com/sitemap.xml
