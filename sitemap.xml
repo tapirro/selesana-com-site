@@ -2,254 +2,278 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://selesana.com/</loc>
-    <lastmod>2026-04-05</lastmod>
+    <lastmod>2026-04-15</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://selesana.com/condiciones/</loc>
-    <lastmod>2026-03-28</lastmod>
+    <lastmod>2026-04-15</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://selesana.com/condiciones/perdida-elasticidad/</loc>
-    <lastmod>2026-03-29</lastmod>
+    <lastmod>2026-04-15</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://selesana.com/ingredientes/</loc>
-    <lastmod>2026-03-28</lastmod>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/ingredientes/biotina/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/ingredientes/cimicifuga/</loc>
+    <lastmod>2026-04-15</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://selesana.com/ingredientes/colageno-verisol/</loc>
-    <lastmod>2026-03-28</lastmod>
+    <lastmod>2026-04-15</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://selesana.com/ingredientes/vitamina-c/</loc>
-    <lastmod>2026-03-28</lastmod>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/ingredientes/zinc/</loc>
+    <lastmod>2026-04-15</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://selesana.com/efectos-secundarios/</loc>
-    <lastmod>2026-03-29</lastmod>
+    <lastmod>2026-04-15</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://selesana.com/opiniones/</loc>
-    <lastmod>2026-03-29</lastmod>
+    <lastmod>2026-04-15</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://selesana.com/que-contiene/</loc>
-    <lastmod>2026-03-29</lastmod>
+    <loc>https://selesana.com/opiniones/ansiedad-menopausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/opiniones/insomnio-menopausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/opiniones/sofocos/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/opiniones/sudoracion-nocturna/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-ansiedad-menopausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-aumento-de-peso-menopausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-aumento-peso-menopausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-caida-cabello-menopausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-cambios-de-humor/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-climaterio/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-dolor-articular-menopausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-dolores-de-cabeza-menopausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-fatiga-cronica-menopausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-fatiga-menopausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-infecciones-urinarias-menopausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-insomnio-menopausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-irritabilidad-menopausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-libido-baja-menopausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-libido-baja/</loc>
+    <lastmod>2026-04-15</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://selesana.com/para-menopausia/</loc>
     <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-sofocos/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-insomnio-menopausia/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-ansiedad-menopausia/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-sudoracion-nocturna/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-sequedad-vaginal/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-perdida-de-memoria/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-fatiga-menopausia/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-osteoporosis-menopausia/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-dolor-articular-menopausia/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-libido-baja-menopausia/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-aumento-de-peso-menopausia/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-cambios-de-humor/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-piel-seca-menopausia/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-irritabilidad-menopausia/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-perdida-de-memoria-menopausia/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-aumento-peso-menopausia/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-premenopausia/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-climaterio/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-resequedad-piel-menopausia/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/ingredientes/cimicifuga/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/ingredientes/biotina/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/ingredientes/zinc/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/opiniones/sofocos/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/opiniones/insomnio-menopausia/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/opiniones/ansiedad-menopausia/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/opiniones/sudoracion-nocturna/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-retencion-de-liquidos-menopausia/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-dolores-de-cabeza-menopausia/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/para-palpitaciones-menopausia/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://selesana.com/para-niebla-mental-menopausia/</loc>
     <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://selesana.com/para-caida-cabello-menopausia/</loc>
+    <loc>https://selesana.com/para-niebla-mental/</loc>
     <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-osteoporosis-menopausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-palpitaciones-menopausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-perdida-de-memoria-menopausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-perdida-de-memoria/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-piel-seca-menopausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-premenopausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-resequedad-piel-menopausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-retencion-de-liquidos-menopausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://selesana.com/para-sequedad-cutanea-menopausia/</loc>
     <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-sequedad-vaginal/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-sofocos/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/para-sudoracion-nocturna/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/que-contiene/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
   </url>
 </urlset>
