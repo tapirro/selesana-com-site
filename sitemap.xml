@@ -464,7 +464,7 @@
   </url>
   <url>
     <loc>https://selesana.com/ingredientes/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -883,9 +883,69 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://selesana.com/ingrediente/calcio-vitamina-d/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/ingrediente/cimicifuga/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/ingrediente/isoflavonas-de-soja/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/ingrediente/trebol-rojo/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/ingrediente/valeriana/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://selesana.com/que-contiene/</loc>
     <lastmod>2026-04-15</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/ingrediente/maca-negra/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://selesana.com/ingrediente/ashwagandha/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://selesana.com/ingrediente/ginseng/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://selesana.com/ingrediente/ginkgo-biloba/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://selesana.com/ingrediente/ortiga/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
