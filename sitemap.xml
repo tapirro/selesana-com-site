@@ -703,8 +703,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://selesana.com/condiciones/menopausia-y-ansiedad/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://selesana.com/condiciones/menopausia-y-articulaciones/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/condiciones/menopausia-y-aumento-de-peso/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -763,6 +775,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://selesana.com/condiciones/menopausia-y-dolor-articular/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://selesana.com/condiciones/menopausia-y-energia/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -787,6 +805,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://selesana.com/condiciones/menopausia-y-microbiota-intestinal/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://selesana.com/condiciones/menopausia-y-migranas/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -805,6 +829,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://selesana.com/condiciones/menopausia-y-piel-envejecimiento/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://selesana.com/condiciones/menopausia-y-relaciones-de-pareja/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -817,8 +847,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://selesana.com/condiciones/menopausia-y-sexualidad/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://selesana.com/condiciones/menopausia-y-tiroides/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/condiciones/menopausia-y-trabajo/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
