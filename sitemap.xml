@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>https://selesana.com/opiniones/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
@@ -416,7 +416,7 @@
   </url>
   <url>
     <loc>https://selesana.com/ingredientes/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -440,7 +440,7 @@
   </url>
   <url>
     <loc>https://selesana.com/condiciones/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -493,8 +493,26 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://selesana.com/condiciones/colon-irritable/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://selesana.com/condiciones/depresion-menopausia/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/condiciones/diarrea-cronica/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/condiciones/disbiosis-intestinal/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -573,6 +591,12 @@
   <url>
     <loc>https://selesana.com/condiciones/insomnio-y-sudoracion-nocturna/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/condiciones/intolerancia-lactosa/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -877,6 +901,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://selesana.com/condiciones/reflujo-gastroesofagico/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://selesana.com/condiciones/resequedad-piel-cuerpo-menopausia/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -949,6 +979,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://selesana.com/condiciones/ulcera-gastrica/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://selesana.com/condiciones/vertigo-menopausia/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -971,41 +1007,5 @@
     <lastmod>2026-04-15</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://selesana.com/condiciones/colon-irritable/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/condiciones/reflujo-gastroesofagico/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/condiciones/diarrea-cronica/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/condiciones/disbiosis-intestinal/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/condiciones/intolerancia-lactosa/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/condiciones/ulcera-gastrica/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
