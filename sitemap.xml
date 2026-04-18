@@ -253,6 +253,12 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://selesana.com/ingrediente/acido-folico/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://selesana.com/ingrediente/ashwagandha/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
@@ -265,7 +271,19 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://selesana.com/ingrediente/calcio/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://selesana.com/ingrediente/cimicifuga/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/ingrediente/cromo/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
@@ -284,6 +302,12 @@
   </url>
   <url>
     <loc>https://selesana.com/ingrediente/ginseng/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/ingrediente/hierro/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
@@ -319,7 +343,19 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://selesana.com/ingrediente/potasio/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://selesana.com/ingrediente/selenio/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/ingrediente/silicio-organico/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
@@ -337,6 +373,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://selesana.com/ingrediente/vitamina-b12/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://selesana.com/ingrediente/vitamina-b6/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
@@ -344,6 +386,18 @@
   </url>
   <url>
     <loc>https://selesana.com/ingrediente/vitamina-c-plus/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/ingrediente/vitamina-c/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://selesana.com/ingrediente/vitamina-d3/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
@@ -917,23 +971,5 @@
     <lastmod>2026-04-15</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://selesana.com/ingrediente/vitamina-c/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/ingrediente/vitamina-d3/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/ingrediente/vitamina-b12/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
