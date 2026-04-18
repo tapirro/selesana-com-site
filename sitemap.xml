@@ -451,6 +451,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://selesana.com/condiciones/ansiedad-perimenopausia/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://selesana.com/condiciones/ansiedad-perimenopausica/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -781,6 +787,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://selesana.com/condiciones/menopausia-y-piel-seca/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://selesana.com/condiciones/menopausia-y-relaciones-de-pareja/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -1007,17 +1019,5 @@
     <lastmod>2026-04-15</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://selesana.com/condiciones/menopausia-y-piel-seca/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selesana.com/condiciones/ansiedad-perimenopausia/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
