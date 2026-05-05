@@ -443,13 +443,6 @@
 }
 .sticky-cta-bar a:hover { background: #e55a2b; }
 @media (min-width: 769px) { .sticky-cta-bar { display: none !important; } }
-
-/* R4: Lead form standardization */
-.privacy-consent { display:flex; align-items:flex-start; gap:6px; margin:8px 0 12px; font-size:.78rem; color:#666; cursor:pointer; }
-.privacy-consent input { margin-top:2px; flex-shrink:0; }
-.privacy-consent a { color:#2563eb; }
-.trust-row { list-style:none; padding:0; margin:.8rem 0 0; display:flex; justify-content:center; gap:.8rem; flex-wrap:wrap; font-size:.75rem; color:#666; }
-.lead-form select { width:100%; padding:10px 12px; margin-bottom:8px; border:1.5px solid #e2e8f0; border-radius:8px; font-size:.95rem; background:#fff; -webkit-appearance:none; appearance:none; background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23666' d='M6 8L1 3h10z'/%3E%3C/svg%3E"); background-repeat:no-repeat; background-position:right 12px center; }
 </style>
 </head>
 <body>
