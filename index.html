@@ -165,6 +165,10 @@
             margin-bottom: 10px;
             font-weight: 700;
         }
+        .hero-pricing{margin:0.75rem 0;display:flex;align-items:center;gap:0.6rem;flex-wrap:wrap}
+        .hero-pricing .price-current{font-size:1.6rem;font-weight:700;color:#4A6741}
+        .hero-pricing .price-anchor{font-size:1rem;color:#999}
+        .hero-pricing .price-pago{font-size:0.85rem;color:#64748b;background:#f0fdf4;padding:2px 8px;border-radius:4px}
         .hero .subtitle {
             font-size: 1.3rem;
             opacity: 0.9;
@@ -376,7 +380,7 @@
       "name": "¿Cuál es el precio de Selesana?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Selesana tiene 3 opciones: Prueba (1 frasco, 10 días) S/174, Tratamiento inicial (3 frascos, 30 días) S/297 con envío gratis, y Tratamiento continuo (6 frascos, 60 días) S/396 con envío gratis."
+        "text": "Selesana tiene 3 opciones: Prueba (1 frasco, 10 días) S/149, Tratamiento inicial (3 frascos, 30 días) S/399 con envío gratis, y Tratamiento continuo (6 frascos, 60 días) S/699 con envío gratis."
       }
     },
     {
@@ -462,6 +466,11 @@
     <div class="container">
         <div class="hero">
             <h1>Selesana</h1>
+    <div class="hero-pricing">
+      <span class="price-current">S/149</span>
+      <s class="price-anchor">S/199</s>
+      <span class="price-pago">Pago contra entrega</span>
+    </div>
     <!-- Pain Amplification -->
     <div class="pain-amplification">
       <div class="pain-inner">
@@ -606,7 +615,7 @@
   "offers": {
     "@type": "AggregateOffer",
     "lowPrice": "66",
-    "highPrice": "174",
+    "highPrice": "149",
     "priceCurrency": "PEN",
     "offerCount": "3",
     "availability": "https://schema.org/InStock"
